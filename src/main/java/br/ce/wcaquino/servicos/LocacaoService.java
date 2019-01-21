@@ -51,8 +51,7 @@ public class LocacaoService {
 			case 4: valorFilme = valorFilme * 0.25;break;
 			case 5: valorFilme = 0d;break;
 			}
-			System.out.println(new Date());
-			
+						
 //			if (i==2) {
 //				valorFilme = valorFilme * 0.75;				
 //			}
